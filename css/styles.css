@@ -74,6 +74,7 @@ body {
   display: flex;
   border-radius: 10px;
   overflow: hidden;
+  margin-bottom: 10px;
 }
 
 .sedans {
